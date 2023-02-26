@@ -1,0 +1,48 @@
+Lipitler;
+• Hücre zarının temel bileşenidir,
+• Canlının enerji kaynağıdır,
+• Suda çözünmez. Eter ve kloroform gibi çözücülerde çözünür,
+• Yapısındakarbon(C),hidrojen(H)veoksijen(O)bulunur.Ayrıcafosfor(P)veazot
+(N) içerebilir.
+Lipitler karbonhidratlardan daha fazla enerji içerir ancak yıkımı karbonhidratlardan daha uzun sürede gerçekleşir. Bu nedenle hücreler, enerji ihtiyaçlarını karşılamada öncelikle karbonhidratları kullanır.
+Lipitler üç grupta incelenir;
+a. Nötral yağlar (trigliseritler) b. Fosfolipitler c. Steroitler
+a. Nötral yağlar (Trigliseritler): Doğada en çok bulunan ve hayvanlarda depo edilen yağ çeşidi olan nötral yağlar 1 mol gliserol ve 3 mol yağ asidinin dehidrasyon sentezi sonucu oluşur. Bu durum aşağıdaki denklemdeki gibi gösterilir:
+1 Gliserol + 3 Yağ asidi 1 Nötral yağ + 3 su (trigliserit)
+Görsel1.36. Nötral yağların oluşum tepkimesi
+Nötral yağların sentezi sırasında yağ asitlerinin her biri ester bağlarıyla gliserole bağlanır. Bu olaya esterleşme denir.
+Nötral yağları oluşturan yağ asitleri, doymuş ve doymamış yağlar olarak iki grupta incelenir. Karbon atomları arasında çift bağ yoksa doymuş yağlar, çift bağ varsa doymamış yağlar olarak adlandırılır. İçyağı, tereyağı gibi hayvansal yağların çoğu doymuş yağ olup oda sıcaklığında katı hâldedir. Zeytinyağı, mısır özü yağı, ayçiçeği yağı gibi bitkisel yağlar doymamış yağlardır ve oda sıcaklığında sıvı hâldedir.
+       
+            1.Ünite Yaşam Bilimi Biyoloji 23
+   Görsel 1.37. Doymuş yağlar hayvansal kaynaklıdır. İç yağ, tereyağı doymuş yağlara örnektir.
+Görsel 1.38. Doymamış yağlar bitkisel kaynaklıdır. Ayçiçek yağı, mısır özü yağı, zeytinyağı doymamış yağlara örnektir.
+b. Fosfolipitler; hücre zarının yapısına katılır. Hücre zarında çift tabaka hâlinde bulunur.
+c. Steroidler; cinsiyet hormonları, safra salgısı ve D vitamininin yapısına katılır. Hormon yapısına katılmasından dolayı düzenleyici görevleri de vardır.
+Lipitlerin canlılar için önemi:
+• Hayvanların derilerinin altındaki depo edilmiş lipitler koruyuculuk görevi yaparak
+organları darbenin etkisinden korur.
+• Bir çeşit yalıtım görevi yaparak vücudun ısı kaybını önler.
+• Metabolizmanın düzenlenmesinde rol alır.
+• Göçmen kuşlar ve kış uykusuna yatan hayvanlar, lipitleri hem enerji kaynağı hem
+de su ihtiyaçları için kullanır.
+• Lipitler, vücuda alınan A, D, E ve K vitaminlerinin çözünmesinde kullanılır.
+• Beslenmede lipitlerin fazla tüketilmesi kalp damar hastalıklarına ve şişmanlığa
+neden olur.
+  Görsel 1.39. Kutup ayılarında derilerinin altına depo edilmiş yağlar yalıtım görevi görerek vücudun ısı kaybını önler.
+Görsel 1.40. Göçmen kuşlar depo ettikleri yağları hem enerji kaynağı olarak hem de su ihtiyacını karşılamak için kullanır.
+                    
+      24
+Biyoloji 1
+ Deneyin Adı Amaç
+Araç Gereçler
+Uygulama
+Hangi besinlerde lipit (yağ) vardır?
+Besinlerdeki lipitlerin varlığını tespit etmek.
+Deney tüpü, bisturi, damlalık, eter, beyaz kâğıt, zeytin yağı, süt, fındık içi, ceviz içi ve patates.
+• Beyaz bir kâğıda zeytinyağını damlatıp kurumaya bırakın. Kuruyan kâğıdı ışığa doğru tutup gözlemleyin.
+• Sütü deney tüpüne koyarak üzerine 2-3 damla eter damlatın ve hafifçe çalkalayarak beş dakika bekleyin. Tüpün üzerinde biriken sıvıyı damlalıkla alıp beyaz kâğıda sürerek kurumasını bekleyin. Kuruyan kâğıdı ışığa tutup gözlemleyin.
+• Fındık içi, ceviz içi ve bisturi ile kestiğiniz patatesi ayrı ayrı beyaz kâğıtlara sürerek kurumasını bekleyin. Bu kâğıtları ışığa tutarak gözlemleyin.
+Deney Sonucu
+Zeytinyağı damlatılan kâğıt kurutularak ışığa doğru tutulduğunda saydam leke- lerin olduğu gözlenir. Çünkü zeytinyağında bolca yağ vardır. Bu yağ molekülleri kâğıtta saydam lekeler bırakır.
+Yağ molekülleri eterde çözünebilme özelliğine sahiptir. Sütün üzerine eter damlatıldığında sütteki yağ molekülleri çözünerek tüpün üzerinde birikir. Tüpün üzerindeki bu yağ molekülleri de kâğıt üzerinde saydam lekeler bırakır.
+Yağ içeren katı besin maddeleri kâğıt üzerine sürüldüğünde kâğıtta saydam lekeler bırakır. Fındık içi, ceviz içi ve patates kâğıt üzerine sürüldüğünde fındık ve cevizde yağ olduğu için kâğıtta saydam leke oluşurken patateste yağ olma- dığı için böyle bir leke oluşmaz.

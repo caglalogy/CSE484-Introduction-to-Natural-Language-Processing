@@ -1,0 +1,63 @@
+
+b. Disakkaritler
+Görsel 1.29. Üzüm bol miktarda glikoz içerir.
+İki monosakkaritin birleşmesi ile disakkaritler oluşur. Bu sırada su çıkışı olur. Bu yüzden bu olay dehidrasyon tepkimesi olarak adlandırılır. Dehidrasyon bir anabolik (yapım) reaksiyondur.Bu reaksiyon genel olarak aşağıdaki gibi gösterilir:
+   Monosakkarit + Monosakkarit Disakkarit
++ Su
+H2O H2O H2O
+    Glikoz
+Glikoz
+Glikoz
++ Glikoz
++ Fruktoz
++ Galaktoz
+Dehidrasyon Hidroliz Dehidrasyon Hidroliz Dehidrasyon Hidroliz
+Maltoz +
+(Arpa şekeri)
+Sükroz +
+(Çay şekeri)
+Laktoz +
+(Süt şekeri)
+Görsel1.30. Disakkaritlerin oluşum tepkimesi
+               Görsel 1.31. Maltoz, Sükroz ve Laktoz oluşum tepkimeleri
+Maltoz ve sükroz bitki hücrelerinde, laktoz ise bazı hayvan hücrelerinde sentezlenir.
+      
+            20
+Biyoloji 1
+Büyük moleküllü maddeler yapı taşlarına ayrılırken su kullanılır. Bu olaya hidroliz denir. Hidroliz olayı denklemlerde de görüldüğü gibi dehidrasyon sentezinin tam tersidir. Disakkaritlerin hidroliz tepkimesiyle monosakkaritlere kadar yıkılması katabolik (yıkım) bir reaksiyondur.
+c. Polisakkaritler
+Çok sayıda glikozun birleşmesi ile oluşur. Glikozlar birbirine glikozit bağı ile bağlanır. Bu sırada monosakkarit sayısının bir eksiği kadar su molekülü açığa çıkar. Bu durum aşağıda verilen denklemdeki gibi gösterilir:
+(n) Monosakkarit Polisakkarit + (n-1) Su
+Görsel 1.32. Polisakkaritlerin oluşum tepkimesi
+Nişasta, selüloz, glikojen ve kitin olmak üzere dört çeşit polisakkarit vardır. Nişasta ve selüloz bitkisel, glikojen ve kitin hayvansal polisakkarittir. Selüloz ve kitin hücre yapısına katılırken, nişasta ve glikojen hücrede depo edilir.
+Görsel 1.33. Polisakkaritler tablodaki gibi gruplandırılır.
+    Bitkisel
+ Hayvansal
+ Yapıya Katılan
+ Selüloz
+ Kitin
+ Depo Edilen
+ Nişasta
+ Glikojen
+Bitkisel ve yapısal bir polisakkarit olan selüloz bitki hücrelerini çevreleyen duvarın temel bileşenidir. Çok sayıda glikozun birleşmesiyle oluşur. Selüloz suda çözünmez. Otçul hayvanlar, bağırsaklarında yaşayan bakteriler sayesinde selülozu sindirebilirken insanlar, selülozu sindiremez. İnsanlar selülozu sindiremese de sindirim kanalından geçen selüloz mukus salgılanmasını uyararak besinlerin kolayca ilerlemesini sağladığı için bolca tüketilmelidir. Taze meyve, sebze ve tahıllar selüloz açısından zengin besinlerdir.
+Mukus hücreleri tarafından salgılanan koyu kıvamda yapışkan sıvıya mukus denir.
+Nişasta
+Bitkiler ürettikleri glikozun fazlasını nişastaya dönüştürerek kök, gövde, yaprak, meyve, tohum gibi organlarında depolar. Patates, pirinç, arpa, buğday, yulaf gibi besinlerde bol miktarda nişasta vardır. Hayvanlar nişasta üretemez ancak nişasta açısından zengin bitkileri yiyerek nişasta alır.
+ Görsel 1.34. Patates nişasta yönünden zengin bir bitkidir.
+Selüloz
+                     
+      1.Ünite Yaşam Bilimi Biyoloji 21
+ Glikojen
+Hayvansal polisakkarittir. Glikozun fazlası bakteri, mantar ve hayvan hücrelerinde glikojen olarak depo edilir. Glikojen çok sayıda glikozun birleşmesiyle oluşur. İnsanlarda glikozun fazlası glikojene dönüştürülerek kas ve karaciğer hücrelerinde depolanır. Yağ ve proteinlerin fazlası da karaciğerde glikojene dönüştürülerek depolanır.
+ Kitin
+Yapısında azot bulunan polisakkarittir. Suda çözünmez. Arı, hamam böceği gibi eklem bacaklıların kabuk denilen dış iskeletinde bulunur. Ayrıca mantarların hücre duvarında da kitin vardır. Sağlam bir yapıya sahip olan kitinden ameliyatlarda kullanılan dikiş iplikleri üretilir. Kitin doku içerisinde çözündüğünden dikişi aldırmak gerekmez.
+Görsel 1.35. Böceklerin kabuğu kitinden oluşur.
+Karbonhidratların fazlası insanda yağa dönüştürülerek depolandığından çok tüketilmesi şişmanlığa neden olur. Ayrıca insülin direncine sebep olarak diyabetin (şeker hastalığı) gelişmesine zemin hazırlar. Vücut enerji ihtiyacını öncelikle karbonhidratlardan karşıladığından, az karbonhidrat tüketildiğinde hâlsizlik, yorgunluk ve baş dönmesi meydana gelir.Deneyin Adı Amaç
+Araç Gereçler
+Uygulama
+Hangi besinlerde karbonhidrat vardır?
+Besinlerde karbonhidrat varlığının tespiti.
+Deney tüpü, damlalık, iyot çözeltisi (nişasta iyot çözeltisiyle mavi-mor renk verir), bisturi, patates, ekmek, yumurta akı.
+• Bisturi yardımıyla ekmek ve patates küçük parçalara bölünür.
+• Deney tüplerine sırasıyla yumurta akı, ekmek ve patates konur. • Tüplerin her birine 5’er damla iyot çözeltisi damlatılır.
+• Renk değişimleri gözlenir.

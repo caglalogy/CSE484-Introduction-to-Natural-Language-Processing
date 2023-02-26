@@ -1,0 +1,21 @@
+1.4.3 Deneysel Yöntem 
+Bir değişkenin diğer bir değişken üzerindeki etkisinin araştırılarak bir varsayımın (hipotezin)sınandığı yöntemdir. Korelasyonel çalışmalar nedensellik ilişkisi ifade etmez- ken, deneysel çalışmalar neden-sonuç bağı kurma ve açıklama amacıyla yapılır. 
+Deneysel yöntemlerde kullanılan başlıca değişkenler şunlardır: 
+• Bağımsız Değişken(Neden): İncelenen olayda araştırmacının seçtiği, olayda etkisi araştırılan etkendir. 
+• Bağımlı Değişken(Sonuç): Bağımsız değişkenin etkisine bağlı olarak ortaya çıkan durumdur. 
+Psikolojideki deneysel araştırmalarda genellikle birbiri ile eşleştirilmiş 2 grup ele alı- nır. Bunlar deney ve kontrol grubudur: 
+• Deney Grubu: Koşulların değiştirildiği ve bağımsız değişkenin uygulandığı (dene- yin yapıldığı)gruptur. 
+• Kontrol Grubu: Koşullarına müdahale edilmeyen ve deney grubu ile karşılaştırma yapmak amacıyla oluşturulan gruptur. 
+Örneğin, “düzenli yapılan tekrar öğrenmeyi artırır” öngörüsünün (varsayımının) de- ney hipotezi olarak ele alındığı bir çalışmada her bakımdan birbirine denk (yaş, zekâ, ekonomik durum gibi) iki grup alınır. Deney grubuna tekrar yaptırılırken, kontrol gru- buna yaptırılmaz. Bir aylık süre sonunda iki gruba da aynı soruların olduğu bir sınav yapılır ve birinci grubun daha başarılı olduğu görülür. Bu deneyde etkisi araştırılan tek- rar deneyin bağımsız değişkeni, bağımsız değişkene bağlı olarak ortaya çıkan sonuç yani öğrenme ise bağımlı değişkendir. Tekrar ve öğrenme değişkenleri arasındaki çalışmanın başlangıcında öngörülen neden sonuç ilişkisi böylece ispatlanmış olur. 
+Psikoloji araştırmalarında her zaman tek yöntem kullanılması yeterli olmayabilir. Lokum testi çalışmasında olduğu gibi bazen birkaç yöntemi (doğal gözlem, korelasyonel yöntem, sistematik gözlem gibi) aynı anda kullanmak gerekebilir. 
+Hangi eylemin doğru ve iyi olduğunu, hangilerinin yanlış ve kötü olduğunu irdeleyen etiğin (ahlakın), bilim insanlarının eylemlerini de konu edinmesine bilim etiği denir. 
+Türk psikologları derneğinin 2004 yılında kabul ettiği etik yönetmeliği, araştırma sı- rasında izlenmesi gereken temel ilkeleri belirtir. Bunlardan ilki, deneğin araştırma sıra- sında ya da sonunda fiziksel bir zarara ya da sakatlığa uğraması etik olarak doğru değildir. İkincisi, denek bilgilendirilmeli ve rızası alınmalıdır. Katılımcılar araştırmadan istedikleri zaman çıkabilmelidir. Katılımcılara araştırmanın sonunda araştırma hakkında bilgi edin- me imkânı verilmelidir. Son olarak da deneklerin gizlilik hakkıdır. Yani kişi hakkında elde edilen bilgiler saklı tutulmalı ve deneğin rızası olmadan başkalarına verilmemelidir. 
+Akademik çalışmalarla elde edilen bilgilerin, sorunların tes- pit ve çözümünde uygulamaya konmasıyla ilgilenir 
+1) Klinik Psikoloji
+2) Endüstri Psikolojisi
+3) Eğitim Psikolojisi
+4) Psikolojik Danışma ve 
+Rehberlik Psikolojisi 5) Sağlık Psikolojisi 
+DİĞER ALT DALLAR 
+Psikolojinin birçok boyutunun çeşitli alan- larda kullanılmasıyla ilgilenir. 
+1)Adli Psikoloji 2)Çevresel Psikoloji 3)Din Psikolojisi 4)Spor Psikolojisi 5)Trafik Psikolojisi 

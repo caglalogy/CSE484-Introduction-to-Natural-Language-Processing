@@ -1,0 +1,30 @@
+1.2.2. Dünya'nın Hareketleri ve Sonuçları
+1.2.2.1 Dünya’nın Eksen Hareketi
+Dünya kendi ekseni etrafında dönerken iki kutup
+noktası arasında izafi bir eksen oluşur. Dünya bu eksen
+hareketini batıdan doğuya doğru yapar. Bir turu 24 saat-
+te tamamlar. Buna bir gün denir.24 saat içinde güneşin
+ufuk düzlemindeki(Gökyüzü)hareketi de değişir. Güne-
+şin doğduğu zamana sabah tam tepe noktasına dikildiği
+Görsel 1.15 Eksen Hareketi
+ zamana öğle battığı zamana ise akşam vakti denir. Sabah
+ve akşam vakitlerinde güneş ışınlarının yere düşme açısı küçük iken öğle vaktinde ışın-
+lar alabileceği en büyük açı ile yere düşer.
+Dünyamızın şeklinden dolayı yarısı aydınlık, yarısı karanlıkta kalır. Böylece gece-gündüz oluşur. Gece ile gündüzü birbirinden ayıran çizgiye aydınlanma çemberi denir. Aydınlanma çemberi eksenin yörünge ile yaptığı açıya bağlı olarak yeri değişir. Eksen hareketi ise gece ile gündüzün bir biri ardına sıralanmasını sağlar. Dün-yamızın kendi ekseni etrafındaki hızı iki şekilde ifade edilir:
+Açısal hız: Dünya küresel bir şekle sahiptir. Dolayısıyla dairesel bir cismin birim zamanda yola açıya açısal hız denir. Açısal hız enleme göre değişmez. 24 saatte yaptığı açısal hız 360°ye eşittir .
+Çizgisel hız: Cisimlerin birim zamanda aldığı yola çizgisel hız denir. Çizgisel hız sabit değildir. Bulunulan paralele göre değişir. Dünyanın en hızlı yol aldığı paralel Ek- vator’ dur. Saatte 1670 km hız ile dönmektedir. Bu hız kutuplara doğru azalır. Kutup- larda 0 km'ye iner. Çizgisel hızın kutuplara doğru azalması atmosfer kalınlığını da et- kilemiştir. Ekvator’da hızlı döndüğü için atmosferi dışa doğru iter ve kalınlığının fazla olmasına neden olur.
+Dünyanın günlük (eksen) hareketinden kaynaklanan başlıca sonuçları şu şekilde açıklayabiliriz.
+a. Gece gündüz ardı ardına sıralanır.
+b. Güneş ışınlarının gün içinde geliş açısı değişir. Bunun sonucunda;
+✓ Sıcaklıklar gün içinde değişir.
+✓ Kayaçlarda günlük sıcaklık farkından dolayı fiziksel ayrışma meydana gelir.
+35
+ Işınların katettiği yol
+Yansıyan ışınlar
+✓ Gün içinde ısınma soğumaya bağlı olarak basınç merkezleri yer değiştirir. Böyle- ce meltem rüzgârları oluşur.
+✓ Cisimlerin gölge boyu gün içinde değişir.
+c. Yerel saat farkları meydana gelir.
+d. Eksen hareketi sonucunda merkezkaç kuvveti ortaya çıkar. Merkezkaç kuvveti de sürekli rüzgârların (alize,batı ve kutup )ve okyanus akıntılarının yönünde sapmalar oluşturur. Bu sapma kuzey yarım kürede sağa güney yarım kürede sola doğru olur.
+e. 30° ve 60° enlemlerinde dinamik nedenli basınç merkezleri oluşur.
+f. Dünyanın dönüş yönüne bağlı olarak ana yönleri belirlenir.
+g. Atmosfer kalınlığı Ekvator’dan uzaklaştıkça azalır. Güneş’ten gelen ışın demetleri Ekvator’a daha kısa mesafede ulaşırken kutuplara daha uzun bir mesafede ulaşır, yani katettiği mesafe artar. Mesafe arttıkça sıcaklık da düşer.

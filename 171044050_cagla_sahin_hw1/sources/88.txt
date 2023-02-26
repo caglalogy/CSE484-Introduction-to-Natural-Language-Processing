@@ -1,0 +1,66 @@
+Eczacılar laboratuvarlarda, kendilerine veya başkalarına ait eczanelerde eczacı olarak çalışırlar. Ayrıca ilaç endüstrisinde araştırmacı veya ilaç tanıtıcı olarak çalışabilirler. Küçük bir kısmı ise eğitim ile uğraşır. Eczacı, sağlık hizmetleri grubundan bir meslek insanı, aynı zamanda ticaretle uğraşan kimsedir.
+ 1.3. KİMYANIN SEMBOLİK DİLİ
+ELEMENT ADLARI VE SEMBOLLERİ
+Duyularla algılanabilen, uzayda yer kaplayan ve kütlesi olan her şey mad- dedir. Maddelerin yapısı incelendiğinde, doğada bazılarının saf, büyük bir ço- ğunluğunun ise karışım olarak bulunduğunu söyleyebiliriz. Maddeler ister saf, ister karışım hâlde olsun, tamamı elementlerden veya elementlerin fiziksel veya kimyasal yollarla bir araya gelmesinden oluşur.
+  Madde
+Saf madde Karışım
+Element Bileşik
+Elementler ve bileşikler saf maddelerdir. Tüm maddeleri oluş- turan, tek tür temel birimlerden oluşan saf maddelere element de- nir. Evrende bilinen 118 çeşit element vardır. Bunların 92 kadarı doğaldır. Geri kalanı ise laboratuvar ortamında yapay olarak elde edilmektedir. Doğal elementlerin çok azı doğada saf hâlde bulunur. Örneğin kuyumcuların vitrininde ışıltıları ile dikkat çeken elmas, soluduğumuz havadaki oksijen (O2), azot (N2) gazları ve soy gazlar doğada saf olarak bulunabilen elementlerdendir.
+Element sembolleri
+Semboller bazen duyguları, bazen gizlenmesi isteneni, bazen de ifade edil- mek isteneni kısa yoldan gösteren simgelerdir. Semboller anlam yüklenmiş bir harf, bir şekil de olabilir. Kimya biliminde de farklı dillerden de olsa kimya ile ilgilenen herkesin anlayabileceği basit ve anlaşılır element sembolleri geliş- tirilmiştir. Tüm uluslar element adlarını kendi dilinde kullanmalarına rağmen, aynı ortak sembolleri kullanmaktadırlar. Ortak sembollerin kullanılması bilim alanında iletişimi kolaylaştırmaktadır.
+          Görsel 1.31 Saf elmas
+27
+1.Ünite Kimya Bilimi
+  
+ Kimya 1Element AdıElementin Latince AdıSembolüAtom NoSembolElement AdıAtom NoSembolElement Adı Element sembolleri harflerle gösterilmektedir. Elementin Latince adının ilk harfi element sembolü olarak kabul edilmiştir. Ancak element sayısına kıyasla alfabedeki harflerin azlığı ve bazı element adlarının aynı harfle başlamaları nedeniyle elementlerin bir kısmı bir harfle temsil edilirken diğer- leri iki veya üç harfle temsil edilmektedir. Aşağıdaki tabloda bazı elementlerin Latince adları ve sembolleri yer almaktadır:Bakır
+Karbon
+Altın
+Cuprum Cu
+Carboneum C
+Aurum Au
+   Tablo1.1 Elementlerin latince adları ve sembolleri
+Element adının sadece ilk harfi sembol olarak kullanıldığında büyük harf kullanılır. Birden fazla sayıda harf sembol olarak kullanıldığında ise ilk harf büyük, diğer harfler küçük yazılır. Tablo 1.2’ de en hafif ilk 20 element ve gündelik hayatta sıkça karşılaştığımız bazı elementlerin adları ve sembolleri yer almaktadır:
+19 K Potasyum 20 Ca Kalsiyum 24 Cr Krom
+25 Mn Mangan1 H
+2 He
+3 Li
+4 Be
+5BBor 26FeDemir
+Hidrojen
+Helyum
+Lityum
+Berilyum
+     6 C Karbon
+7NAzot 28NiNikel
+27 Co Kobalt
+  8 O Oksijen
+9FFlor 30ZnÇinko
+29 Cu Bakır
+  10 Ne
+11 Na
+12 Mg
+13 Al
+14 Si
+15 P
+16 S
+17 Cl
+18 Ar
+Neon
+Sodyum
+Magnezyum
+Alüminyum
+Silisyum
+Fosfor
+Kükürt
+Klor
+Argon
+35 Br 47 Ag 50 Sn 53 I 56 Ba 78 Pt 79 Au 80 Hg 82 Pb
+Brom
+Gümüş
+Kalay
+İyot
+Baryum
+Platin
+Altın
+Cıva
+Kurşun

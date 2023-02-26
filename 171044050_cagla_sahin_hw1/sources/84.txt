@@ -1,0 +1,31 @@
+Kimya bilimi, günlük hayatımızın bir parçası hâline gelen atıkların geri dönüşümü, kremlerin hazırlanması, lekelerin kıyafetlerden çıkarılması, yemeklerin bozulması, alevden etkilenmeyen kıyafetler, ağaçların ilaçlanması, mayanın hamuru kabartması, solunum vb. birçok olayın nedenini anlamamıza yardımcı olmaktadır.
+Kimyanın çalışma alanı çok geniş olduğundan çeşitli disiplinlere (uygulama alanlarına) ayrılmıştır.
+KİMYA DİSİPLİNLERİ
+Kimya; Organik Kimya, Anorganik Kimya, Biyokimya, Analitik Kimya, Fizikokimya, Polimer Kimyası ve Endüstriyel Kimya olmak üzere çeşitli dallara ayrılmıştır.
+ Organik Kimya
+Kimyanın, karbon ve hidrojen elementlerinden oluşan bileşiklerle ilgilenen ana bilim dalıdır. Örneğin canlı organizmaların yapı taşları olan karbon temelli yapılar; proteinler, yağlar, şekerler ve DNA organik kimyanın uğraş alanındadır. Ayrıca bitkilerden elde edilen yağlar, kokular, boyalar vb. organik maddelerle de organik kimya ilgilenir. Organik kimya; bu bileşiklerin yapısal özellikleri, elde edilişleri ve tepkimeleri ile ilgilenir .
+Görsel 1.13 Bitkilerden elde edilen sıvı yağ
+19
+1.Ünite Kimya Bilimi
+  
+ Kimya 1
+   Görsel 1.15 Kan testi
+Analitik Kimya
+Kimyanın daha çok nitel ve nicel olarak incele- mesini yapan ve bu incelemeleri yapabilmek için ölçüm aletlerini geliştiren ana bilim dalıdır. Örne- ğin sulardaki zehirli (toksik) madde oranının tayi- ni, hastalık tanısı için yapılan pH ölçümü, ilaçların yapısındaki maddelerin oranları, titrasyon deneyleri vb. analitik kimyanın ilgi alanıdır.
+Fizikokimya
+Anorganik Kimya
+Organik bileşikler dışında kalan bile- şikler ile periyodik cetvelde yer alan her elementle ilgilenen bilim dalıdır. Örneğin asitler, bazlar, tuzlar, metaller, ametaller anorganik kimyanın uğraş alanındadır.
+Biyokimya
+Görsel 1.14 Mağaradaki tuz kristalleri
+ Canlıların yapısını oluşturan bileşik ve elementler ile bunların kimyasal tepkimeleri ve süreçleri ile uğraşan ana bilim dalıdır. Örneğin DNA, solunum, enzimler, kan ve idrar testleri vb. biyokimyanın ilgi alanıdır.
+ Görsel 1.16 Titrasyon deneyi
+ Görsel 1.17 Piller
+Fiziksel yasalarla kimyasal olayların oluş nedenini inceleyen anabilim dalıdır. Bazı tepkimeler neden yavaş bazıları neden hızlı, tepkimenin olabilmesi için ne kadar enerjiye ihtiyaç vardır, bir kimyasal tepkime sonucunda ne kadar iş yapılabilir vb. konularla uğraşır. Metal kaplamacılık, piller, elektroliz vb. fizikokimyanın uğraş alanıdır.
+Polimer Kimyası
+Polimer kimyası, polimer olarak bilinen sentetik ve organik kimyasal maddelerin incelenmesi ve elde edilmesiyle uğraşır. Polimer kimyası kimyanın diğer tüm alanlarını kapsar; organik, anorganik, fizikokimya, biyokimya vb.
+Görsel 1.18 PVC çerçeve
+ 20
+
+Saçlarımız, ceketlerde, ayakkabıda kullandığımız deri, yün, ipek doğal birer polimerdir. Polimer gözlükler, silikonlar, cam çerçevelerdeki PVC, sentetik kumaş, dokuma iplikleri ise yapay polimerlerden bazılarıdır.
+Endüstriyel Kimya
+Endüstriyel kimya, maddelerin ve materyallerin geliştirilmesi, imalat süreçleri, atıkların yok edilmesi ve geri dönüşümü ile ilgilidir. Kimya endüstrisi ha- yatımızın neredeyse her yönünü etkileyen kozmetik, petrol ürünleri, kâğıt, deterjan, tekstil gibi çok çeşitli ürünler üretir. Kimya alanında çalışmak isteyenler için endüstriyel kimya sektörü büyük bir istihdam alanı açar.

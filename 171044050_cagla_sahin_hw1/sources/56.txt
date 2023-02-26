@@ -1,0 +1,61 @@
+1.2.2.3. Proteinler
+Proteinler;
+• Hücre zarının, organellerin, kas, kıkırdak, kemik gibi
+dokuların, bazı hormon ve enzimlerin yapısına katılır. • Karbon (C), oksijen (O), hidrojen (H), azot (N) ve
+kükürt (S) atomlarını içerir.
+• Hücrede ribozom adı verilen organellerde sentezlenir.
+Proteinleri oluşturan yapı taşları aminoasitlerdir. Canlılar tarafından sentezlenebilen yirmi çeşit amino asit vardır. Proteinler bu amino asitlerin çeşitli kombinasyonlarla birleşmesinden oluşur. Protein molekülü yüzlerce hatta binlerce amino asit içermektedir. Protein zincirlerinde bulunan aminoasitlerin sayısı ve dizilimi farklı protein çeşitlerinin oluşmasını sağlar.
+Görsel 1.41. Et, süt, yumurta, bakliyatlar proteince zengin besinlerdir.
+       
+            1.Ünite Yaşam Bilimi Biyoloji 25
+Amino asitler; amino grubu, karboksil grubu, bir karbon atomu, bir hidrojen atomu ve R ile gösterilen radikal grup (değişken grup) içerir. Değişken grubun özellikleri amino asidin kendine özgü yapısını belirler.
+ H
+Karboksil grubu
+O C
+OH
+Aminoasitler birbirine peptit bağıyla bağlanır. İki aminoasidin bağlanmasıyla oluşan yapıya dipeptit denir. Bu esnada bir molekül su açığa çıkar. Bu olay aşağıda verilen denklemdeki gibi gösterilebilir:
+Amino asit + Amino asit Dipeptit + Su
+Görsel 1.43. Dipeptit oluşumu
+Canlılarda 20 çeşit aminoasit vardır. Birçok bakteri ve bitki bu 20 çeşit amino asitin hepsini sentezleyebildiği hâlde, hayvanlar ancak 12 kadarını sentezleyebilir. Hayvanlar, sentezleyemedikleri aminoasitleri dışarıdan besin yoluyla alır. Bu aminoasitlere temel (esansiyel) aminoasit denir.
+Amino grubu H
+N H
+C
+R Değişken grup
+       Görsel 1.42. Aminoasitin yapısı.
+  Polipeptit Zinciri
+Aminoasit
+Görsel 1.44. Yüzlerce aminoasidin birleşmesiyle oluşan zincirlere polipeptit denir.
+Yüzlerce aminoasidin birleşmesiyle oluşan zincirler polipeptit olarak adlandırılır. Proteinler genellikle birden fazla polipeptit zinciri içerir. Proteinler birçok metabolik olayın gerçekleşmesinde görev alır.
+Eter, kloroform gibi çözücüler ile sıcaklık, pH, tuz derişimi gibi koşullar proteinin yapısını bozar. Bu olaya denatürasyon denir.
+                      
+            26
+Biyoloji 1
+Proteinlerin organizmadaki önemli etkileri şunlardır:
+• Hücre yapımında ve dokuların onarımında görev alır.
+• Hücre zarının yapısına katılarak madde geçişlerinde görev yapar.
+• Antikor yapısına katılarak vücudun bağışıklığında görev alır.
+• Hemoglobin yapısına katılarak solunum gazlarının taşınmasında görev alır.
+• Kan proteinlerinden albümin ve globulini oluşturarak kanın ozmotik basıncının
+düzenlenmesinde, fibrinojenin yapısına katılarak kan pıhtılaşmasında görev alır.
+• Hücre içi ve dışı sıvıların pH değişimlerini dengeleyerek homeostasıinin
+korunmasında rol oynar.
+• Zorunlu durumlarda enerji kaynağı olarak kullanılır.
+  Deneyin Adı Amaç
+Araç Gereçler
+Uygulama
+Hangi besinlerde protein vardır?
+Besinlerdeki protein varlığını tespit etmek.
+Deney tüpü, damlalık, su, süt, yumurta, elma, Biüret çözeltisi
+• Deney tüplerine sırasıyla 5’er damla su, yumurta akı, çiğ süt ve elma konur. Daha sonra tüplerin her birine üçer damla Biüret çözeltisi damlatılarak karış- tırılır. Bir süre beklendikten sonra tüplerde oluşan renk değişimleri gözlenir.
+• Proteinler Biüret çözeltisi ile pembe-mor renk verir. Deney Sonucu
+  Biüret çözeltisi damlatılır.
+ Protein
+Biüret çözeltisi Su
+Biüret çözeltisi Yumurta akı
+Biüret çözeltisi Çiğ süt
+Pembe-mor renk oluşur.
+Biüret çözeltisi Elma
+   Deneyin sonucunda su ve elma olan tüplerde renk değişimi olmazken yumurta akı ve çiğ süt olan tüplerde pembe-mor renk oluştuğu görülür. Buna göre su ve elmada protein olmadığı, yumurta akı ve çiğ sütte protein olduğu sonucuna varılır.
+                    
+     1.2.2.4. Enzimler
+Enzimler; canlılarda gerçekleşen biyokimyasal reaksiyonların aktivasyon enerjisini düşürerek reaksiyonları hızlandıran ve reaksiyonlardan değişmeden çıkan biyolojik katalizörlerdir.

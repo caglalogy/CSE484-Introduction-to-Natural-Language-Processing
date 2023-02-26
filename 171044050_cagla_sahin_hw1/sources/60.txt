@@ -1,0 +1,18 @@
+Nükleik asitlerin yapısında bulunan azotlu organik bazlar beş çeşittir. Bunlar adenin, timin, urasil, sitozin ve guanin bazlarıdır.
+Azotlu organik bazlar yapısal olarak pürin ve pirimidin olmak üzere iki gruba ayrılır. Adenin ve Guanin bazları pürin gubuna, sitozin, timin ve urasil bazları pirimidin grubuna girer. Nükleotidler taşıdıkları azotlu organik baza göre adlandırılır. Yapısında adenin bulunuyorsa adenin nükleotidi, sitozin bulunuyorsa sitozin nükleotidi gibi.
+Fosfat
+1.Ünite Yaşam Bilimi Biyoloji 35
+Azotlu organik bazAdenin, Guanin ve Sitozin bazları hem DNA’nın hem de RNA’nın, Timin bazı sadece DNA’nın, Urasil bazı ise sadece RNA’nın yapısında bulunur.
+Nükleik asitlerin yapısına katılan 5C’lu şeker iki çeşittir. Bunlar; Riboz ve deoksiriboz’dur.
+DNA ve RNA olmak üzere iki çeşit nükleik asit bulunur.
+a. DNA (Deoksiribo Nükleik Asit)
+DNA kalıtım materyalidir. Saç rengi, göz rengi gibi birçok özelliği belirleyen genetik bilgi DNA ile taşınır. Hücredeki tüm proteinlerin sentezi DNA’nın kontrolünde gerçekleşir.
+DNA’nın pürin bazları adenin ve guanin; pirimidin bazları da sitozin ve timindir. Bu bazlardan adenin A, guanin G, sitozin S ya da C, timin ise T harfi ile gösterilir.
+DNA çift zincirli bir moleküldür. DNA’nın bir zincirindeki adenin daima diğer zincirdeki timinle, guanin ise diğer zincirdeki sitozinle eşleşerek aralarında zayıf hidrojen bağları kurulur. Dolayısıyla DNA’daki adenin sayısı timine, guanin sayısı sitozine eşittir. Buna göre DNA zincirlerinden birinin baz sırası bilinirse diğerinin de baz sırası kolayca bulunabilir.
+Genetik bilginin yeni hücrelere aktarılması DNA molekülüyle sağlanır. Hücre bölünmesi sırasında DNA molekülleri eşlenir ve yavru hücrelere eşit olarak aktarılır.
+DNA molekülü tüm canlı hücrelerde ortak olarak bulunur ve aynı nükleotidlerden oluşur. Yani DNA molekülü tüm canlılarda adenin, guanin sitozin ve timin nükleotitlerinden oluşur. Canlıların farklı özelliklere sahip olmasının nedeni; bu dört çeşit nükleotitin farklı dizilimlerde olmasıdır.
+DNA’nın iki temel görevi vardır:
+Görsel 1.60. DNA (Deoksiribo Nükleik Asit)
+Şeker
+Görsel 1.59. Bir nükleotit molekülü.• DNA molekülü protein sentezini kontrol ederek hücredeki metabolik olayları yönetir.
+• DNA, hücre bölünmesi sırasında kendini eşleyerek canlıya ait kalıtsal özelliklerin yeni hücrelere aktarımını (kalıtımı) sağlar.

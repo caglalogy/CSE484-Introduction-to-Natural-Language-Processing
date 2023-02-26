@@ -1,0 +1,40 @@
+Enzimler kullanılamazsa biyolojik reaksiyonlar gerçekleşemez. Çünkü reaksiyonların gerçekleşmesi için yüksek sıcaklık gerekir. Örneğin, glikozun dış ortamda parçalanması için 160 °C sıcaklık gerekirken, enzimlerle vücut sıcaklığı olan 36,5 °C de, çok hızlı bir şekilde parçalanır.
+Aktivasyon enerjisi: Kimyasal reaksiyonların gerçekleşmesi için gerekli olan minimum enerji miktarıdır.
+Enzimlerin Yapısı ve Görevleri
+Enzimler yapılarına göre basit ve bileşik enzimler olmak üzere iki grupta incelenir.
+Basit Enzimler: Sadece protein yapıda olan enzimlerdir. Yardımcı grup bulundurmazlar. Sindirim enzimleri basit yapılı enzimlerdir.
+Bileşik Enzimler: Yapılarında proteinle birlikte yardımcı grup olarak vitamin veya mineral bulunduran enzimlerdir. Bileşik enzimlere holoenzim de denir.
+Apoenzim Koenzim Apoenzim Kofaktör
+Görsel 1.46. Proteinlerin yardımcı kısmı vitaminse koenzim adını, mineralse kofaktör adını alır.
+Bileşik enzimlerdeki protein kısma apoenzim denir. Yardımcı kısım vitamin gibi organik bir molekül ise koenzim, mineral gibi inorganik bir molekül ise kofaktör olarak isimlendirilir.
+Enzimler protein yapılı olduğu için ribozom organelinde sentezlenir.
+1.Ünite Yaşam Bilimi Biyoloji 27
+  Serbest enerji
+    Protein kısım
+ Protein kısımMineral
+Vitamin
+      
+            28
+Biyoloji 1
+Enzimlerin Özellikleri
+Enzimlerin etki ettiği maddelere substrat denir. Enzimin protein kısmında aktif bölge adı verilen özel bir bölge bulunur. Enzim substratına aktif bölgeden bağlanır. Enzimler etki ettiği maddelere anahtar-kilit uyumu yapacak şekilde geçici olarak bağlanır. Bu bağlanma sırasında substratlarda bağlanma veya ayrılma şeklinde değişimler gerçekleşir. Böylece yeni ürünler oluşur. Enzimler reaksiyondan değişmeden çıkar.
+Aktif bölge
+Enzim + Substrat Enzim + Substrat Enzim + Ürün Kompleksi
+Görsel 1.47. Enzimle substratı arasında anahtar-kilit uyumu vardır.
+Enzimlerin genel özellikleri şunlardır:
+• Enzim ile substratı arasındaki uyum anahtar-kilit ilişkisine benzer.
+• Bazı enzimler çift yönlü (tersinir) bazı enzimler tek yönlü çalışır.
+• Enzimler tepkimelerin aktivasyon enerjisini düşürür.
+• Enzimler, hem hücre içinde hem de hücre dışında çalışabilir.
+• Enzimler, tepkimelerden değişmeden çıkar. Bu yüzden tekrar tekrar kullanılabilir.
+• Enzimler takım hâlinde çalışır, bir enzimin etki ettiği tepkimenin ürünü, kendinden
+sonraki enzimin substratıdır.
+• Enzimler,genelliklesubstratçeşidininsonuna-azekigetirilerekadlandırılır.Maltaz,
+sükraz gibi. İsminin sonunda -ojen eki bulunan enzimler inaktif durumdadır. Bu enzimler, belirli şartlar altında aktif hâle geçer.
+Enzim Aktivitesine Etki Eden Faktörler
+Enzim aktivitesine etki eden faktörler sıcaklık, pH değeri, su miktarı, enzim-substrat yoğunluğu, substrat yüzeyinin alanı, aktivatör ve inhibitör maddelerdir.
+Sıcaklık
+Enzimler protein yapılı olduğundan sıcaklık değişimlerinden etkilenir. Bu yüzden ortam sıcaklığı enzimlerin çalışması için önemlidir. Enzimlerin en verimli çalıştığı sıcaklık derecesine optimum (en uygun) sıcaklık denir. Enzim çeşidine göre optimum sıcaklık değeri değişir.
+                             
+      Yüksek sıcaklıklarda enzimlerin yapısındaki proteinler bozulduğu için enzimler çalışamaz. Örneğin sütün içinde bulunan ve sütün ekşimesine neden olan mikroorganizmaların enzimleri süt kaynatıldığında bozulur. Böylece sütün ekşimesi engellenir.
+Düşük sıcaklıklarda enzimlerin protein yapısı bozulmaz ancak enzimler inaktif duruma geçtikleri için çalışmazlar. Ortam ısıtıldığında ise aktifleşerek yeniden çalışır hâle gelirler. Örneğin 0OC’nin altında, besinlerin bozulmasına neden olan mikroorganizmaların enzimleri çalışmaz. Bu sayede besin maddeleri dondurucuda bozulmadan uzun süre saklanabilir.

@@ -1,0 +1,70 @@
+pH
+0 20 37 Sıcaklık (0C)
+50
+Ortam pH’sı enzimin çalışabilmesi için önemlidir. Her enzimin etkin bir şekilde çalışabildiği belirli bir pH aralığı vardır. Örneğin pepsin enzimi pH değeri 2 olan midede, tripsin enzimi pH değeri 8 olan ince bağırsakta en iyi çalışır. Yani pepsin enzimi asidik, tripsin enzimi bazik ortamda aktiftir.
+Su
+Ortamın su yoğunluğu enzimlerin çalışabilmesi için önemlidir. Örneğin tohumlardaki su oranı %15’in altında olduğunda enzimler çalışamaz ve tohumlar çimlenemez. Baharla beraber yağmurlar artıkça topraktaki su miktarı dolayısıyla tohuma giren su miktarı da artar. Böylece tohumun çimlenmesini sağlayan enzimler çalışmaya başlar ve tohumlar çimlenir.
+Meyve ve sebzelerin yapılarındaki su, reçel yapılarak ya da kurutularak uzaklaştırılır. Böylece meyve ve sebzelerin bozulmalarına neden olan enzimler çalışamaz ve bu besinler uzun süre bozulmadan saklanır.
+Enzim-Substrat Yoğunluğu
+Enzimlerin etkinliği, etki ettiği substratın yoğunluğuyla ilişkilidir.
+Substrat yeterli
+Enzim yoğunluğu
+Görsel 1.49. Enzim yoğunluğunun tepkime hızı üzerine etkisi
+Ortamda yeterli miktarda substrat varken, enzim yoğunluğu arttıkça tepkime hızı da artar.
+1.Ünite Yaşam Bilimi Biyoloji
+29
+Görsel 1.48: Sıcaklığın enzim etkinliği ile tepkime hızı üzerine etkisi
+    Tepkime hızı
+Tepkime hızı
+      
+            30
+Biyoloji 1
+Ortamda yeterli miktarda substrat varken, enzim miktarı sınırlıysa substrat miktarı arttıkça tepkime hızı önce artar, sonra sabit hızla devam eder.
+Substrat sınırlı
+Enzim yoğunluğu
+Görsel 1.51. Sınırlı substrat miktarının tepkime hızı üzerine etkisi
+Substrat Yüzey Alanı
+x
+x kadar enzim varken
+Substrat yoğunluğu
+Görsel 1.50. Sınırlı enzim miktarının tepkime hızı üzerine etkisi
+Ortamda yeterli miktarda enzim varken substrat miktarı sınırlıysa substrat bitince tepkime durur.
+Enzimler substratın dış yüzeyine etki eder. Substratın yüzey alanı arttıkça enzimin bağlanacağı yüzey arttığı için tepkime hızı da artar. Örneğin kıyma hâlindeki etin yüzeyi kuşbaşı hâlindeki etin yüzeyinden fazla olduğu için sindirim enzimleri köfteyi, kuşbaşı etten daha hızlı parçalar.
+Aktivatör ve İnhibitör Etkisi
+Enzim etkinliğini artıran maddelere aktivatör denir. Örneğin hidroklorik asit (HCl), magnezyum, mangan gibi maddeler enzim etkinliğini artırır. Enzim etkinliğini yavaşlatan ya da durduran maddelere inhibitör denir. Örneğin; siyanür, yılan, böcek ve akrep zehirleri, cıva, kurşun gibi maddeler enzimlerin etkinliğini yavaşlatır ya da durdurur.
+    Tepkime hızı
+Tepkime hızı
+ Deneyin Adı Amaç
+Araç Gereçler
+Uygulama
+Sıcaklığın enzim aktivitesine etkisi.
+Sıcaklığın enzim etkinliğine etkisini gözlemlemek.
+Deney tüpleri, bisturi, ispirto ocağı, sacayak, termometre, beherglas, hidrojen peroksit (H2O2 ), su, çiğ karaciğer, kibrit, kâğıt, kalem.
+• Üç adet beherglasın yarısına kadar su doldurulur. Sacayağı, ispirto ocağı ve termometre kullanılarak sırasıyla 30 OC’de, 37 OC’de ve 60 OC’de üç adet sıcak su banyosu hazırlanır.
+                    
+            1.Ünite Yaşam Bilimi Biyoloji 31
+  • İçine eşit miktarda karaciğer parçaları konan üç adet deney tüpü sıcak su banyolarının içine yerleştirilir.
+• Deney tüplerinin içine 2’şer ml hidrojen peroksit (H2O2 ) damlatılır.
+• Her bir tüpün ağzına yanan bir kibrit yaklaştırılarak kibrit alevlerinin parlaklığı
+gözlemlenir.
+Deney Sonucu
+Karaciğer hücrelerinde bulunan katalaz enzimi, hidrojen peroksiti (H2O2 ), su (H2O) ve oksijene (O2 ) kadar parçalar. Kibrit alevlerinin parlaklığı göz önün- de bulundurularak hangi deney tüpünde oksijen çıkışının daha hızlı olduğu gözlenir.
+Katalaz enzimi için optimum sıcaklık 37 OC olduğu için en fazla oksijen çıkışı bu tüpte olur. Bu yüzden kibrit alevinin en parlak olduğu tüp budur.
+30 OC’de katalaz enziminin çalışması yavaşladığı için bu tüpteki oksijen çıkışı azalır. Bu yüzden kibrit parlaklılğı da azalır.
+60 OC’de katalaz enziminin yapısı bozulacağı için enzim çalışmaz. Enzim çalışmadığı için tepkime gerçekleşmez. Oksijen çıkışı olmadığı için kibrit parlaklığında herhangi bir değişim olmaz.
+Enzimlerin Kullanım Alanları
+Enzimler, peynir ve ekmek yapımı, et ürünlerinin işlenmesi, laktozsuz süt üretimi, meyve sularının berraklaştırılması gibi endüstrinin hemen her alanında kullanılır. Genellikle mikroorganizmalardan elde edilir.
+Biyoteknolojik araştırmalarda, tıpta, eczacılıkta enzimlerden yararlanılır. Protein, yağ ve nişastalı artıkları parçalamak için bulaşık ve çamaşır deterjanlarına enzim eklenir.
+Kanser hastalığına karşı uygulanan enzim tedavisi sayesinde kanserli hücrelerin yok edilmesi sağlanmaktadır.
+1.2.2.5. Hormonlar
+Özel bezler tarafından salgılanan, kan yolu ile ulaştıkları organ ve dokular üzerinde düzenleyici olarak görev alan organik moleküllerdir. Amino asit, protein ve steroit yapılı olabilirler.
+Hormonlar; üreme, beslenme, korku, heyecan, büyüme, gelişme ve homeostazi gibi pek çok yaşamsal olayda görev alır. Bu yüzden canlılık için çok önemlidir. Az ya da çok salınması metabolik rahatsızlıklara yol açar. Örneğin; insanda hipofiz bezinden salgılanan ve kan yoluyla tüm vücuda dağıtılan büyüme hormonunun, az salınması cüceliğe, fazla salınması devliğe yol açar. Bitkilerde üretilen hormonlar ise büyüme, çiçeklenme, meyve oluşumu, yaprak dökümü gibi olayları düzenler.
+                    
+      32
+Biyoloji 1
+1.2.2.6. Vitaminler
+Görsel 1.52. Taze sebze ve meyvelerde bol miktarda vitamin bulunur.
+  Vitaminlerin genel özellikleri:
+• Yapı maddesi veya enerji kaynağı olarak kullanılmaz. • Düzenleyici ve direnç artırıcı olarak kullanılırlar.
+• Enzimlerin yapısına katılarak katalizör olarak görev yapar.
+• Bitkilerde fotosentez reaksiyonları ile doğrudan üretilebildikleri gibi, hayvanlarda öncül maddelerden dönüşüm reaksiyonlarıyla da üretilir.

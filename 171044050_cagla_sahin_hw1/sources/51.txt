@@ -1,0 +1,71 @@
+1.1. CANLILARIN ORTAK ÖZELLİKLERİ
+Biyoloji canlı ve doğa ile ilgili konuları inceleyen bilim dalıdır. Bu yüzden canlı bilimi olarak tanımlanır. Yunancada canlı anlamına gelen “bios” ile bilim anlamına gelen “logos” kelimelerinin birleşmesiyle oluşur. Biyoloji; canlıların gelişim aşamalarını, birbirleriyle ve çevreleriyle olan ilişkilerini, anatomik yapılarını ve bu yapıların işleyişlerini, hücre ve hücrede meydana gelen metabolik olayları inceler. Biyolojinin günümüzde tıp, eczacılık, ziraat, veterinerlik, moleküler biyoloji, genetik, embriyoloji, ekoloji gibi çok sayıda çalışma alanı vardır.
+Bir ağacın canlı olduğu ya da bir taşın canlı olmadığı nasıl anlaşılır? Varlıkları canlı olarak nitelendirmek için tüm canlılarda ortak olarak bulunan özelliklere bakmak gerekir. Bu ortak özellikler beslenme, solunum, boşaltım, hareket etme, uyarılara tepki verme, uyum, üreme, hücresel yapı, büyüme ve gelişmedir. Bu özelliklerin tamamına sahip olan varlıklar canlı olarak nitelendirilir.
+a. Hücresel Yapı
+Görsel 1.1. Bakteriler Görsel 1.2. Ökaryot prokaryot canlılardır. ve tek hücreli
+canlılardan amip
+Görsel 1.3. Ökaryot ve çok hücreli canlılardan papatya
+Görsel 1.4. Ökaryot ve çok hücreli canlılardan kurbağa
+1.Ünite Yaşam Bilimi Biyoloji 7
+     Hücre, yaşama, üreme, solunum gibi canlılık olaylarının tamamını gerçekleştiren temel birimdir. Hücreler yapısal olarak prokaryot ve ökaryot olarak ikiye ayrılır. Prokaryotlar çekirdeksiz hücrelerden, ökaryotlar çekirdekli hücrelerden oluşur. Prokaryotlar tek hücreli, ökaryotlar tek ya da çok hücreli canlılardır. Örneğin bakteriler prokaryot canlılardır. Amip ökaryot ve tek hücreli canlıdır. Bitki ve hayvanlar ökaryot ve çok hücreli canlılardır.
+b. Beslenme
+Canlılar büyüyüp gelişmek, yıpranan doku ve organlarının onarımını yapmak, düzen- leyici faaliyetleri devam ettirebilmek ve enerji ihtiyacını karşılamak için beslenmek zo- rundadır. Beslenme şekillerine göre canlılar üreticiler (ototrof) ve tüketiciler (heterotrof) olarak iki gruba ayrılır. Üreticiler yeşil bitkilerde olduğu gibi su, mineral, karbondioksit ve güneş ışığını kullanarak kendi besinlerini üretirler. Tüketiciler ise besinlerini dış ortamdan hazır olarak alır bir başka ifadeyle üreticilerden karşılar. Mantarlar ve hayvanlar tüketici canlılara örnektir.
+Görsel 1.5. a) Bitkiler üretici canlılardır. b) Hayvanlar tüketici canlılardır.
+        
+            8
+Biyoloji 1
+c. Solunum
+Canlılar aldıkları besinleri enerjiye çevirmek için solunum yapmak zorundadır. Canlılar organik besinleri solunum reaksiyonlarıyla parçalayarak ATP sentezler. Böylece yaşamsal faaliyetleri için gereken enerjiyi üretirler. Bazı canlılar ATP’yi oksijen kullanarak üretirken bazıları oksijen kullanmadan üretir.
+ç. Metabolizma
+Organizmadaki yapım (birleştirme ya da sentez) ve yıkım (ayrıştırma ya da
+parçalanma) tepkimelerinin tümüne metabolizma denir. Metabolizma
+    Anabolizma (yapım)
+Protein sentezi Fotosentez
+Yağ sentezi
+DNA ve RNA sentezi Karbonhidrat sentezi
+Katabolizma (yıkım) Solunum Sindirim
+Görsel 1.6. Canlılarda görülen belli başlı yapım ve yıkım reaksiyonları
+Küçük moleküllü maddelerin birleştirilmesiyle meydana gelen sentez türündeki kimyasal reaksiyonlara anabolizma (yapım reaksiyonu) denir. Örneğin bitkilerin su ve karbondioksitten güneş enerjisi yardımıyla daha büyük moleküllü besin maddelerini (karbonhidrat) oluşturması bir anabolik reaksiyondur.
+Büyük moleküllü maddelerin parçalanmasıyla meydana gelen kimyasal reaksiyonlara katabolizma (yıkım reaksiyonu) denir. Örneğin solunum, katabolik bir reaksiyondur. Solunumla canlılar, büyük moleküllü besinleri parçalayarak küçük moleküllü maddeler ve enerji açığa çıkarır.
+d. Homeostazi
+Yaşamın devamı için hücre içi veya vücut içi ortamın sıcaklık, madde yoğunluğu ve pH gibi birçok değer bakımından belirli bir dengede olması durumuna homeostazi denir. Koşmaya başlandığında artan enerji ihtiyacını karşılamak için hızlı soluk alıp verilmesi, artan vücut ısısını düşürmek için terleme olayının gerçekleşmesi, kandaki şeker miktarını belli bir değerde tutmak için insülin hormonunun salgılanması gibi durumlar homeostaziyi sağlar.
+e. Boşaltım
+Tüm canlılar, beslenme ve solunum olayları sonucunda oluşan atık maddeleri hücrelerinden veya vücutlarından atmak zorundadır. Bu işleme boşaltım denir. Canlılar boşaltım işlemini farklı yöntemlerle gerçekleştirir. Örneğin; bir hücreli canlılar atık maddeleri hücre zarının yüzeyinden difüzyonla atar. Çok hücreli canlılardan olan bitkiler sıvı atıkları
+Görsel 1.7. Bitkilerde gerçekleşen damlama olayı bir boşaltım şeklidir.
+                     
+              1.Ünite Yaşam Bilimi Biyoloji 9
+terleme ya da damlama yolu ile atarken katı atıkları yapraklarını dökerek atar. Hayvanlarda boşaltım için özelleşmiş yapı ve organlar bulunmaktadır. Örneğin ter deriyle, idrar boşaltım organlarıyla, karbondioksit solunum organlarıyla vücut dışına atılır.
+f. Hareket
+Canlılar kaçmak, beslenmek, avlanmak vb. ihtiyaçlarını karşılamak için hareket etmek zorundadır.
+ Kamçı
+Görsel 1.9. Amip
+Yalancı ayak
+Sil
+Görsel 1.10. Paramesyum
+                                                                                                                          Görsel 1.8. Öglena
+Canlılar hareket için çeşitli yapılarını kullanır. Örneğin; bir hücrelilerden öglena kamçısıyla, amip yalancı ayak denilen yapılarıyla, paramesyum silleriyle hareket eder. Hayvanlar ise bacak, kanat, yüzgeç gibi gelişmiş hareket organlarına sahiptir.
+Bitkilerde hareket yer değiştirme şeklinde değil, durum değiştirme şeklinde olur. Örneğin; bitkilerin çiçek, yaprak ve dalları ile güneşe doğru; kökleri ile suya doğru yönelmesi durum değiştirme hareketidir.
+Görsel 1.11. Ayçiçeğinin güneşe doğru yönelmesi.
+Görsel 1.12. Hayvanlar bacak, kanat ve yüzgeç gibi çeşitli yapılarıyla hareket eder.
+                        
+10
+Biyoloji 1
+ g. Uyarılara Tepki
+Canlılar ısı, ışık, besin, avcı, ses gibi birçok uyarıya çeşitli davranışlarıyla tepki verir. Örneğin bir hücreli canlılardan olan amip besin uyaranına, öglena ışığa doğru hareket ederek, küstüm otu bitkisi dokunulduğunda yapraklarını kapatarak, ceylan yavrusu ise çitadan kaçarak tepki verir. Uyarana karşı verilen bu tepkiler canlıların hayatta kalmasını sağlar.
+ğ. Uyum
+Görsel 1.13. Küstüm otu bitkisi dokunulduğunda yapraklarını kapatır.
+ Canlıların bulundukları çevrede yaşamasını sağlayan kalıtsal, yapısal veya davranışsal değişikliklere uyum denir. Bu özellikler, yaşanılan ortam içerisinde canlının hayatta kalabilmesini ve çoğalabilmesini sağlar. Örneğin kaktüs bitkisi susuzluğa dayanabilme özelliği ile çöle, bukalemun ise renk değiştirme özelliği ile bulunduğu ortama uyum sağlar. Böylece hayatta kalma şansları artar.
+  Görsel1.14. Kaktüs susuzluğa dayanabilme özelliği ile çöle uyum sağlar.
+h. Organizasyon
+Görsel 1.15: Bukalemun renk değiştirme özelliği ile bulunduğu ortama uyum sağlar.
+Tüm canlılar, belirli bir organizasyona sahiptir. Tek hücreli canlılarda hücre organelleri arasında, çok hücreli canlılarda ise hücreler arasında belirli bir organizasyon bulunur. Örneğin amip; tek bir hücre ile besinlerini alır, işler, boşaltım yapar, çevresel uyarılara cevap verir, ürer ve diğer işlevlerini gerçekleştirir. Çok hücreli organizmalar ise tüm bunları özelleşmiş hücreler arasındaki iş bölümü ile gerçekleştirir. Çok hücreli canlılarda görev ve yapı bakımından benzer hücreler bir araya gelerek dokuları, dokular organları, organlar sistemleri, sistemler ise organizmayı meydana getirir.
+
+      1.Ünite Yaşam Bilimi Biyoloji 11 Canlılar soylarını devam ettirmek için üremek zorundadır. Canlılar eşeyli ya da eşeysiz
+olarak ürer.
+Eşeysiz üremede sadece ana canlı vardır ve oluşan yavrular genetik olarak ana canlının aynısıdır. Eşeysiz üreme; tek hücreli canlılarda, bazı bitki, hayvan ve mantar türlerinde görülür.
+Eşeyli üreme, dişi ve erkek üreme hücrelerinin birleşerek yeni bir canlıyı oluşturmasıdır. Eşeyli üreme ile oluşan yavru hem dişi hem erkek bireyin özelliklerini taşıdığı için kalıtsal çeşitlilik oluşur. Hayvan ve bitkilerin çoğu eşeyli üreme ile çoğalır.
+Görsel1.16. Canlılar soylarını devam ettirmek için üremek zorundadır.
+i. Büyüme ve Gelişme
+Canlılar büyür, gelişir, yaşlanır ve ölür. Büyüme bir hücreli canlılarda hücre sitoplazmasının hacimce ve kütlece artmasıyla gerçekleşirken çok hücreli canlılarda hücre sayısının ve hacminin artmasıyla gerçekleşir.
+ ı. Üreme
+   Gelişme canlının sahip olduğu yapıların zamanla değişerek fonksiyonel olarak olgunlaşmasıdır. Örneğin bir bebeğin kilo alması büyüme, emeklemesi, yürümesi ve koşması gelişmedir.

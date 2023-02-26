@@ -1,0 +1,43 @@
+1.5. SOSYOLOJİDE ARAŞTIRMA YÖNTEMLERİ
+?
+İnsan içinde yaşadığı doğal ve toplumsal çevreyi tanımak, karşılaştığı sorunlara çözüm yolları bulmak ister. Bu amaçla çeşitli araştırmalar yapar ancak ulaşılan sonuçların günlük yaşantımızda elde ettiğimiz bilgilerden daha güvenilir ve doğru olması için bilimsel yöntem ve araştırma teknikleri ile elde edilmesi gerekir. Bilimsel yöntem, doğal ve toplumsal gerçekliği tanımlamak, açıklamak ve bu gerçekliğin yasalarına ulaşmak amacıyla izlenen sistemli bilgi edinme yoludur. Bütün bilimler bilimsel yöntemi kullanırken şu üç tür akıl yürütme biçiminden yararlanır:
+Tümdengelim: Doğruluğu kabul edilmiş genel bilgilerden özel bilgiler elde etme yoludur. Örneğin, bütün gelişmiş ülkeler bilime önem veriyor önermesinden yola çıkarak Kanada’nın da gelişmiş bir ülke olarak bilime önem verdiği sonucunu çıkarabiliriz.
+Tümevarım: Tek tek olguların bilgisinden hareketle genel yargılara ulaşmaktır. Örneğin, liman şehirlerini gözlemleyerek bütün liman şehirlerinin ticarette gelişmiş olduğu önermesine ulaşabiliriz.
+Analoji: Aynı olay ya da olgunun benzer birçok yönünün zaman ve mekân faktörleri göz önüne alınarak karşılaştırılmasıdır. Örneğin, Ankara ve İstanbul kalabalık bir şehirdir. Ankara’da trafik yoğundur. O hâlde İstanbul’da da trafiğin yoğun olabileceği sonucuna varabiliriz.
+SOSYOLOJİNİN KULLANDIĞI ARAŞTIRMA YÖNTEMLERİ
+Toplumda kadına gösterilen şiddetin nedenleri nelerdir? İşsizliğin toplumsal sapmaya etkileri nelerdir? Köyden kente göç eden ailelerdeki kültürel farklılaşmanın olumlu ve olumsuz yönleri nelerdir? gibi soruların cevaplarını bize sosyal araştırmalar verir. Her bilimde olduğu gibi sosyoloji de toplumsal olayların “anlaşılabilir” olduğu gerçeğinden hareket ederek bu olayları ve bu olayların yol açtığı değişimleri neden-sonuç ilişkisi içerisinde, nesnel bir tavırla ele alıp değerlendirir.
+a. Tarama (survey) Yöntemi: Geniş gruplara rahatlıkla uygulanan, bu yüzden kamuoyu araştırmalarında etkili olan önemli bir bilgi toplama tekniğidir. Şirket ve örgütler için yerel, ulusal ve uluslararası düzeylerde önemli bir bilgi toplama aracıdır. Önce neyin incelenmek istendiği belirlenir. Sonra bu konuda çoğunlukla anket ve görüşme tekniği kullanılarak bilgi toplanır.
+b. Alan çalışması (Olay incelemesi): Belirli bir olay, kişi ya da grubun detaylı bir biçimde incelenmesidir. Monografi, sosyometri, gözlem, anket, görüşme gibi bilgi toplama teknikleri kullanılır. Genelde küçük grupları incelemek için kullanılır. Bulgular
+  Sizce toplum bilimsel olarak incelenebilir mi?
+  
+1. Ünite Sosyolojiye Giriş
+  sadece o grup için geçerlidir. Ulaşılan sonuçları daha büyük gruplara genellemek doğru değildir.
+c. Belgelere dayalı araştırma: Yazılı belgeler, istatistiki belgeler, fotoğraflar ve ses kayıtları gibi bilgi kaynakları kullanılarak bir konunun araştırılmasıdır. Tarihi araştırmalarda önem taşır. Örneğin Tanzimat döneminin sosyal hayatını inceleyen bir araştırmacı, Tanzimat Fermanını inceledikten başka o fermanın hangi sosyal şartlar altında hazırlandığını açıklar.
+SOSYOLOJİDEKİ VERİ TOPLAMA TEKNİKLERİ
+Bilimsel yöntem veri toplama teknikleri
+aracılığıyla uygulanır. Çeşitli kaynaklardan
+derlenebilen, üzerinde inceleme yapılabilen
+her türlü bilgi veri olarak kabul edilir. Bilim-
+sel araştırmalarda veri toplama teknikleri
+ile güvenilir bilgiye ulaşılır. Veri toplamak
+amacıyla kullanılan çeşitli araçlara araştır-
+ma tekniği denir. Araştırma teknikleri araş-
+tırılan konuya uygun olarak seçilir. Yöntem
+araştırma tekniği ile somutlaşır. Anket, mo-
+nografi, sosyometri birer araştırma tekniğidir. Varsayımlar (hipotez) araştırma teknikle- riyle doğrulanmaya çalışılır.
+Sosyolojideki veri toplama teknikleri şunlardır:
+Anket: Sosyal bilimlerde en sıklıkla kullanılan
+veri toplama tekniklerinden biri olan anket, kısa
+sürede geniş bir örneklemden yüzeysel veriler
+elde etmek için kullanılan, önceden hazırlanmış
+soruların katılımcılara postayla ya da internet
+üzerinden gönderilmesi veya telefonla ya da yüz yüze
+sorulmasını içeren bir veri toplama tekniğidir. Anket
+çalışmalarından güvenilir sonuçlar elde etmek için
+seçilen örneklemin, evreni temsil etmesi son derece
+önemlidir. Örneğin, Türkiye’deki boşanmaların
+nedenleri ile ilgili anket uygulamasında örneklemin
+sadece Ağrı’dan ya da İzmir’den seçilmesi doğru
+sonuç vermez. Bütünü temsil eden doğru örneklem
+doğru sonuçlara ulaşmamızı sağlar. Anket formunda
+yer alan soru cümlelerinin mümkün olan en kısa şekilde, açık, net, basit bir dille yazılmış olması ve her bir sorunun sadece bir tek şeyi ölçmeye çalışması gerekmektedir.
